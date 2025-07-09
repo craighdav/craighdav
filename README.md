@@ -32,6 +32,6 @@ Core Java anagram checker. Utilizes Map.merge(), Optional, and lambdas for effic
 📫 Let's Connect!
 I'm always open to discussing new opportunities or collaborating on interesting projects.
 
-LinkedIn: linkedin.com/in/craig-h-davis
+LinkedIn: [linkedin.com/in/craig-h-davis](https://linkedin.com/in/craig-h-davis)
 
 Email: craighdav@msn.com
